@@ -1,0 +1,13 @@
+{
+  "name": "mplang",
+  "version": "0.0.1",
+  "description": "A metaphoric programming language",
+  "main": "index.js",
+  "repository": "https://github.com/uvworkspace/mplang",
+  "author": "uvworkspace <uvw@mytraces.net>",
+  "license": "MIT",
+  "dependencies": {
+    "uvw-node": "^0.0.1",
+    "uvwlib": "^0.0.3"
+  }
+}
